@@ -38,5 +38,5 @@ Airbnb London Listings Dataset
 ## Files
 
 - `Airbnb_London.pbix` – Power BI project
-- `Airbnb_London_Report.pdf` – Dashboard report
+- `Airbnb_London.pdf` – Dashboard report
 - `dashboard.png` – Dashboard preview
