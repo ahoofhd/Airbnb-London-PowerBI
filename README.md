@@ -33,7 +33,7 @@ Airbnb London Listings Dataset
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Airbnb Dashboard.png)
 
 ## Files
 
